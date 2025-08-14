@@ -10,9 +10,10 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
 <!-- Your screenshot should go here -->
-<img src="screenshot.png" alt="Screenshot"/><br/>
+<img src="screenshot-js.png" alt="Screenshot"/><br/>
 
 ### Installation
+
 1. Download `Eldritch.tmTheme` and place in your bat themes directory (usually `~/.config/bat/themes`).
 2. `bat cache --build`
 3. Run `bat --list-themes | grep Eldritch` to confirm installation.
