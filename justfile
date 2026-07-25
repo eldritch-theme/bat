@@ -59,4 +59,4 @@ write:
     just _deploy_palette "Dusk" "dusk" "light" "3f218a90-4c7b-4ef2-82a1-3ef893c4e56b" \
         "#f0f3f4" "#e2e6e8" "#d5d9db" "#c9cbcd" "#1e2029" "#5b73dc" \
         "#0ad6ff" "#38ff9f" "#ffaf4d" "#fb5bb6" "#8a69f7" "#fb5b66" "#fff952" \
-        "#5b73dc" "#ffaf4d" "#8a69f7" "#fb5bb6" "#ffaf4d" "#8a69f7" "#5b73dc" "#8a69f7" "#8a69f7" "#5b73dc" "#5b73dc" "#5b73dc" "#8a69f7" "#8a69f7" "#8a69f7" "#ffaf4d"
+        "#0ad6ff" "#ffaf4d" "#fb5b66" "#ffaf4d" "#ffaf4d" "#fb5bb6" "#fb5bb6" "#8a69f7" "#fb5bb6" "#0ad6ff" "#5b73dc" "#0ad6ff" "#0ad6ff" "#8a69f7" "#38ff9f" "#ffaf4d"
