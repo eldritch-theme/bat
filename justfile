@@ -38,7 +38,7 @@ _deploy_palette VARIANT VARIANT_LOW DARK UUID \
         -e "s/@@TODO@@/{{todo}}/g" \
         -e "s/@@FOCUS_BORDER@@/{{focus_border}}/g" \
         -e "s/@@CHANGED_BG@@/{{changed_bg}}/g" \
-        .Eldritch-@@VARIANT@@.tmTheme > themes/Eldritch-{{VARIANT}}.tmTheme
+        ".Eldritch @@VARIANT@@.tmTheme" > "themes/Eldritch {{VARIANT}}.tmTheme"
 
 write:
     mkdir -p themes
